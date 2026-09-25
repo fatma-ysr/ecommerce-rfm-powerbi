@@ -3,6 +3,7 @@
 Turning one million raw retail transactions into an actionable customer-segmentation
 dashboard: extracted and cleaned in Python, scored with an RFM model, and visualised
 in a multi-page Power BI report built on a star schema with time-intelligence.
+Live dashboard: https://app.powerbi.com/groups/me/lineage?actions=highlight%2Cimpact&artifactId=89c9d6ca-b0d3-4f40-9e02-07d984f53891&src=Desktop&experience=power-bi
 
 ![Python](https://img.shields.io/badge/Python-pandas-blue)
 ![Power BI](https://img.shields.io/badge/Power%20BI-DAX%20%7C%20Power%20Query-yellow)
